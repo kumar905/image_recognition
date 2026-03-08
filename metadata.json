@@ -1,0 +1,5 @@
+{
+  "name": "Image Recognition System",
+  "description": "A production-ready Image Recognition System featuring classification, object detection, plant disease prediction, and real-time webcam analysis powered by Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
